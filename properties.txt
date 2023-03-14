@@ -1,0 +1,3 @@
+Amazon = order the mobile
+Flipkart = order the phone
+Meesho = order the dress
